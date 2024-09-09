@@ -1,7 +1,9 @@
   - title: SDM
     description: SIAM International Conference on Data Mining
     sub: DB
+    sub_caai: KEDM
     rank:
+      caai: B
       ccf: B
       core: A
       thcpl: B
